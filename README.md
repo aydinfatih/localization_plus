@@ -448,7 +448,3 @@ context.localizationDelegates // get localization delegates
 | ![Arabic RTL](https://raw.githubusercontent.com/aydinfatih/localization_plus/master/screenshots/ar.png "Arabic RTL") | ![English LTR](https://raw.githubusercontent.com/aydinfatih/localization_plus/master/screenshots/en.png "English LTR") | ![Turkish LTR](https://raw.githubusercontent.com/aydinfatih/localization_plus/master/screenshots/tr.png "Turkish LTR") | ![Russian LTR](https://raw.githubusercontent.com/aydinfatih/localization_plus/master/screenshots/ru.png "Russian LTR") |
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
