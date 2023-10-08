@@ -3,8 +3,9 @@ description: Easy, Advanced and Fast Internationalization for your Dart-based Ap
 version: 1.0.0
 repository: https://github.com/aydinfatih/localization_plus
 issue_tracker: https://github.com/aydinfatih/localization_plus/issues
-funding: # TODO: imcele
-screenshots: # TODO: imcele
+funding:
+  - https://github.com/sponsors/aydinfatih
+
 topics:
   - localization
   - language
@@ -19,7 +20,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: '>=0.17.0-0 <=0.18.1'
+  intl: '>=0.17.0 <=0.18.1'
   shared_preferences: '>=2.0.0 <3.0.0'
   collection: '>=1.0.0 <2.0.0'
   flutter_localizations:
