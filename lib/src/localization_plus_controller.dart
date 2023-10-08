@@ -120,6 +120,7 @@ class LocalizationPlusController extends ChangeNotifier {
 
   Map<String, dynamic>? get fallbackTranslations => _fallbackTranslations;
 
+  bool get hasActiveListener => hasListeners;
   // endregion
 
   // region - Public Methods
