@@ -1,0 +1,28 @@
+{
+  "hello": "Merhaba",
+  "notations": "Varsayılan: {arg}, Baş harfi büyük: {Arg}, Büyük harf: {ARG}",
+  "goodbye": "Hoşçakal, {username}",
+  "welcome": "Hoşgeldin {Username}",
+  "locale": "Geçerli dil: {LANGUAGE}",
+  "I love programming.": "Programlamayı Seviyorum",
+  "user": {
+    "profile": {
+      "firstname": "Ad",
+      "lastname": "Soyad"
+    }
+  },
+  "price": {
+    "0": "Bedava",
+    "1:5": "Ucuz",
+    "6:10": "Normal",
+    "*": "Pahalı"
+  },
+  "clicked": {
+    "zero": "Bugün",
+    "one": "Yarın",
+    "two": "2 gün sonra",
+    "few": "Birkaç gün sonra",
+    "many": "Haftalar sonra",
+    "other": "Uzun bir süre sonra"
+  }
+}

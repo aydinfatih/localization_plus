@@ -1,0 +1,29 @@
+{
+  "hello": "Hello",
+  "notations": "Default: {arg}, Capital: {Arg}, Uppercase: {ARG}",
+  "goodbye": "Goodbye {username}",
+  "welcome": "Welcome {Username}",
+  "locale": "Current language: {LANGUAGE}",
+  "I love programming.": "I love programming.",
+  "user": {
+    "profile": {
+      "firstname": "Firstname",
+      "lastname": "Lastname"
+    }
+  },
+  "price": {
+    "0": "Free",
+    "1:5": "Cheap",
+    "6:10": "Normal",
+    "*": "Expensive"
+  },
+  "clicked": {
+    "zero": "Today",
+    "one": "Tomorrow",
+    "two": "2 days later",
+    "few": "A few days later",
+    "many": "Weeks later",
+    "other": "After a long time"
+  },
+  "fallback": "Fallback translation"
+}

@@ -1,0 +1,39 @@
+{
+  "lang": "tr",
+  "hello": "Merhaba",
+  "test": "örnek",
+  "test_with_arguments": "Test => {arg}",
+  "uppercase_test": "{ARG}",
+  "capitalize_test": "{Arg}",
+  "one": {
+    "two": {
+      "three": "dört"
+    }
+  },
+  "day": {
+    "-1": "Dün",
+    "0": "Bugün",
+    "1": "Yarın",
+    "2": "2 gün sonra",
+    "3:6": "Bir kaç gün sonra",
+    "8:13": "1 hafta sonra",
+    "7|14|21|27": "Hafta başlarında",
+    "*": "Herhangi bir gün"
+  },
+  "day_with_arguments": {
+    "1": "{day} gün",
+    "0|2:6": "{day} gün",
+    "7:*": "{day} bir hafta sonra"
+  },
+  "plural": {
+    "zero": "{day} sıfır",
+    "one": "{day} bir",
+    "two": "{day} iki",
+    "few": "{day} birkaç",
+    "many": "{day} çok",
+    "other": "{day} diğer"
+  },
+  "plural_other": {
+    "other": "diğer"
+  }
+}
