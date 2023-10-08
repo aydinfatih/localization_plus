@@ -96,11 +96,11 @@ void main() async {
         );
         await tester.pump();
 
-        expect(controller.hasListeners, true);
+        expect(controller.hasActiveListener, true);
 
         await tester.pumpWidget(const SizedBox.shrink());
 
-        expect(controller.hasListeners, false);
+        expect(controller.hasActiveListener, false);
       });
     });
 
